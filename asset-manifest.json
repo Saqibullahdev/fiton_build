@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ef71d19.css",
+    "main.js": "/static/js/main.f59af5d8.js",
+    "static/js/787.8e98f137.chunk.js": "/static/js/787.8e98f137.chunk.js",
+    "static/media/ME.png": "/static/media/ME.6c163cd3cef3bf71c707.png",
+    "static/media/vision.webp": "/static/media/vision.a77b132747099b802917.webp",
+    "static/media/gym3.png": "/static/media/gym3.ae6db808c962efbccd73.png",
+    "static/media/Haseeb.png": "/static/media/Haseeb.6ac04c5defdd68ba4140.png",
+    "static/media/warmup.jpg": "/static/media/warmup.a65a0e08d690b6f1bb92.jpg",
+    "static/media/23.webp": "/static/media/23.1c28223390bfeb414ee3.webp",
+    "static/media/gym.jpg": "/static/media/gym.1be665d43493d3e23c41.jpg",
+    "static/media/Fball.png": "/static/media/Fball.cfdd71eb8ee4127d40dd.png",
+    "static/media/gym1.jpg": "/static/media/gym1.504781a8161fb22f08cc.jpg",
+    "static/media/banner.png": "/static/media/banner.794449316125d853a43d.png",
+    "static/media/bicepcurls.jpg": "/static/media/bicepcurls.6704488d9330d20e7249.jpg",
+    "static/media/statbike.webp": "/static/media/statbike.7ac0e9882235346eb566.webp",
+    "static/media/gym2.jpg": "/static/media/gym2.2dac41342ff7c98209a6.jpg",
+    "static/media/deadliftt.webp": "/static/media/deadliftt.64994f2f5f6f83398ae2.webp",
+    "static/media/logo.png": "/static/media/logo.640f942c31924f8e8c1c.png",
+    "static/media/treadmill.webp": "/static/media/treadmill.3833d022d6f17266e431.webp",
+    "static/media/chest.avif": "/static/media/chest.e5be6ed08626fa738c0a.avif",
+    "static/media/elliptical.jpg": "/static/media/elliptical.f990c77c059df011be27.jpg",
+    "static/media/shoulderpress.jpg": "/static/media/shoulderpress.2aac34c60eefb0a16ee2.jpg",
+    "static/media/deadlift.jpg": "/static/media/deadlift.c47f4df278c78dbb549e.jpg",
+    "static/media/lunges.jpg": "/static/media/lunges.2bd5be36591eb73642e1.jpg",
+    "static/media/Muavia.jpg": "/static/media/Muavia.5ece5daf7554323c5976.jpg",
+    "static/media/Hamza.jpg": "/static/media/Hamza.6ab708b490027473f043.jpg",
+    "static/media/pushup.avif": "/static/media/pushup.0b35a919c5498ff9c361.avif",
+    "static/media/pullups.webp": "/static/media/pullups.e059b117c3e1c690071f.webp",
+    "static/media/newlogo.png": "/static/media/newlogo.8e051974b1714c80648f.png",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.0ef71d19.css.map": "/static/css/main.0ef71d19.css.map",
+    "main.f59af5d8.js.map": "/static/js/main.f59af5d8.js.map",
+    "787.8e98f137.chunk.js.map": "/static/js/787.8e98f137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef71d19.css",
+    "static/js/main.f59af5d8.js"
+  ]
+}
